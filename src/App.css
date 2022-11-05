@@ -343,29 +343,26 @@ line-height: 24px;
   background: #175CD3;
 }
 
-@media screen and (min-width: 375px) and (max-width: 576px) {
+@media screen and (min-width: 375px) and (max-width: 400px) {
 
   /* Contact Page */
  
   .contact-me {
     width: 343px;
-margin: 0 0 48px 0;
+    margin: 0 0 48px 0;
   }
   .subtitle {
-    /* display: none; */
     margin-top: 16px;
   }
   .contact-details {
-    /* display: none; */
     width: 100%;
   
   }
   .last {
     flex-direction: column-reverse;
-    /* display: none; */
+    
   }
   #first {
-    /* display: none; */
     margin-left: 0px;
   }
   
